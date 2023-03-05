@@ -1,0 +1,15 @@
+D:\das4\das001\bin\Debug\net6.0\das001.exe
+D:\das4\das001\bin\Debug\net6.0\das001.deps.json
+D:\das4\das001\bin\Debug\net6.0\das001.runtimeconfig.json
+D:\das4\das001\bin\Debug\net6.0\das001.dll
+D:\das4\das001\bin\Debug\net6.0\das001.pdb
+D:\das4\das001\obj\Debug\net6.0\das001.csproj.AssemblyReference.cache
+D:\das4\das001\obj\Debug\net6.0\das001.GeneratedMSBuildEditorConfig.editorconfig
+D:\das4\das001\obj\Debug\net6.0\das001.AssemblyInfoInputs.cache
+D:\das4\das001\obj\Debug\net6.0\das001.AssemblyInfo.cs
+D:\das4\das001\obj\Debug\net6.0\das001.csproj.CoreCompileInputs.cache
+D:\das4\das001\obj\Debug\net6.0\das001.dll
+D:\das4\das001\obj\Debug\net6.0\refint\das001.dll
+D:\das4\das001\obj\Debug\net6.0\das001.pdb
+D:\das4\das001\obj\Debug\net6.0\das001.genruntimeconfig.cache
+D:\das4\das001\obj\Debug\net6.0\ref\das001.dll
